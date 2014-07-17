@@ -1,0 +1,6 @@
+-e git+https://github.com/choksi81/seash/#egg=seash
+-e git+https://github.com/choksi81/seattlelib_v2/#egg=seattlelib_v2
+-e git+https://github.com/choksi81/portability/#egg=portability
+-e git+https://github.com/choksi81/clearinghouse/#egg=clearinghouse
+-e git+https://github.com/choksi81/repy_v2/#egg=repy_v2
+-e git+https://github.com/choksi81/repy_v1/#egg=repy_v1
